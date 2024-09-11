@@ -1,4 +1,9 @@
-
+body{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 12px;
+    font-style: strong;
+}
 
 @tailwind base;
 @tailwind components;
