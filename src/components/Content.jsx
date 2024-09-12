@@ -25,7 +25,7 @@ const Content = () => {
                 <div className="absolute inset-0 flex items-center justify-end text-white text-xl font-bold pr-4">
                     <div className="w-2/6 space-y-2">
                         <p>Harapan Bisnis Centre</p>
-                        <p>Tempat yang asik buat Kamu untuk berolahraga dan murah terjangakau</p>
+                        <p>Tempat yang nyaman buat Kamu untuk berolahraga dan murah terjangakau</p>
                         <br />
                         <a
                             href={whatsappUrl}
@@ -41,14 +41,14 @@ const Content = () => {
             <div className="grid justify-center items-center m-2 space-y-6">
                 <div className="flex justify-center items-center h-full">
                     <div className="bg-brown text-white p-5 text-center text-bold ">
-                        <Link >Harga Info</Link>
+                        <p >Harga Info</p>
                     </div>
                 </div>
                 <h1 className="text-5xl text-center">Harapan Bisnis Centre</h1>
                 <p className="text-center"> Ingin tubuh yang lebih sehat dan bugar tanpa perlu merogoh kocek dalam-dalam? Datang saja ke HarapanFitness! Kami menawarkan fasilitas gym lengkap dengan harga yang terjangkau untuk semua kalangan. Nikmati suasana yang nyaman dan menyenangkan sambil mencapai target kebugaranmu</p>
                 <div className="flex justify-center items-center h-full">
                     <div className="bg-brown text-white p-5 text-center text-bold ">
-                        <Link >Info Lebih Lanjut</Link>
+                        <p>Info Lebih Lanjut</p>
                     </div>
                 </div>
             </div>

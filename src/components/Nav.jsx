@@ -7,14 +7,14 @@ const Nav = () => {
             <div className="flex justify-between items-center">
 
                 <div className="flex justify-start items-center">
-                    <h1 className="sm:text-2xl text-sm w-40 sm:w-auto">Harapan Bisnis Centre</h1>
+                    <Link to='/' className="sm:text-2xl text-sm w-40 sm:w-auto">Harapan Bisnis Centre</Link>
                 </div>
 
                 <div className="flex justify-end items-center gap-4 text-sm sm:text-2xl">
 
-                    <Link path='/'>Home</Link>
-                    <Link path='/'>Contact</Link>
-                    <Link path='/'>Prices</Link>
+                    <Link to='/'>Home</Link>
+                    <Link to='/contact'>Contact</Link>
+                    <Link to='/price'>Prices</Link>
 
                 </div>
             </div>
