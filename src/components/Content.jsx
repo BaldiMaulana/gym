@@ -13,7 +13,7 @@ const Content = () => {
         'https://scontent.fcgk30-1.fna.fbcdn.net/v/t1.6435-9/46451826_2284124631659183_2478451753360556032_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFM9GYNE5UIenfXjY412pNyL2OIGi-TqWcvY4gaL5OpZ3fFGSWDeIvlhiC58JOrARwqPBpzPFsAfIbBmUXYI6SK&_nc_ohc=byNam7BbXNIQ7kNvgH6rg1x&_nc_ht=scontent.fcgk30-1.fna&_nc_gid=AihtRhmJElGcuKeFHSHm4Bn&oh=00_AYD8A_p-R2LLtUKc9zI2USmLb0rhMC6xXWLr-VgCQD2JcQ&oe=6709410D'
     ]
 
-        const phoneNumber = '6282387881505'
+        const phoneNumber = '6285805027606'
         const message = "Halo, saya tertarik dengan HarapanFitness."
 
         const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
